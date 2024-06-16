@@ -1,0 +1,2 @@
+import mailFunction from "./mail";
+
